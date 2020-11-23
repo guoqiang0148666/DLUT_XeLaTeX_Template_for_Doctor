@@ -1,3 +1,19 @@
+This is a XeLaTex template for DLUT doctor, which fork from whufanwei.
+
+I compile XeLaTex and meet font error, which means 'Adobe Song Std' is missing. 
+
+I download the relative fonts from https://github.com/dolbydu/font/tree/master/unicode, and then install them in windows7.
+
+Everything is ok.
+
+Related fonts is shown as below:
+
+1. Adobe Song Std
+2. Adobe Heiti Std
+3. Adobe Kaiti Std
+4. Adobe FangSong Std
+
+
 大连理工大学博士LaTeX模板 
 ==========
 
